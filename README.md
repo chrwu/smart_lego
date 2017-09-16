@@ -1,4 +1,3 @@
 # smart_lego
 SmartLego
 
-
